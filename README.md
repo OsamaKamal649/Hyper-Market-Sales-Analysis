@@ -31,4 +31,8 @@ The dashboard provides a consolidated view of key business metrics and enables u
 ## Project Files
 - `Hyper Market.pbix` — Power BI dashboard file.
 
+## Dashboard Preview
+
+![Hyper Market Sales Dashboard](Dashboard.png)
+
 
