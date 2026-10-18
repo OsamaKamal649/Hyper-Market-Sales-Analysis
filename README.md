@@ -51,4 +51,12 @@ The dashboard provides a consolidated view of key business metrics and enables u
 
 ![Hyper Market Sales Dashboard](Dashboard.png)
 
+---
+
+## 📬 Contact
+
+**Osama Kamal** — Data Analyst
+
+[LinkedIn Profile](https://www.linkedin.com/in/osama-kamal-736495150/)
+
 
