@@ -3,6 +3,22 @@
 ## Project Overview
 An interactive Power BI dashboard designed to analyze hypermarket sales performance, profitability, product performance, regional sales, and customer activity across 1997 and 1998.
 
+
+## 👨‍💻 My Contribution
+
+I independently developed this Power BI project from end to end, transforming the provided raw data sheets into an interactive sales analysis dashboard.
+
+My responsibilities included:
+
+- **Data Preparation:** Cleaning and transforming data using Power Query.
+- **Data Modeling:** Designing the data model and establishing relationships between tables.
+- **DAX Measures:** Developing custom measures to calculate KPIs and business metrics.
+- **Dashboard Design:** Building an interactive dashboard with a clear and user-friendly layout.
+- **Business Analysis:** Analyzing sales performance, profitability, and customer-related metrics to identify meaningful insights.
+
+**Data Source:** The dataset was provided from an external source. The data modeling, DAX calculations, analytical approach, and dashboard design were independently developed by me.
+
+
 ## Key Performance Indicators (KPIs)
 - **Total Sales:** 1.76M
 - **Profit Margin:** 59.7%
